@@ -1,2 +1,2 @@
-# quinn-computerscience
+# quinn-exploring-cs
 uhhhhhhhhh
